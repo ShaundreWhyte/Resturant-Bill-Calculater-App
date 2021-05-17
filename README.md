@@ -1,3 +1,3 @@
 # Resturant-Bill-Calculater
-![Capture](https://user-images.githubusercontent.com/46546858/118419765-f493c880-b68a-11eb-9258-49674f7f2e52.PNG)
+![Capture](https://user-images.githubusercontent.com/46546858/118426524-5b1fe300-b699-11eb-8779-5b9daa01d642.PNG)
 
